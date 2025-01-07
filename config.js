@@ -55,7 +55,7 @@ module.exports = {
   botname: process.env.BOT_NAME || "ST┘𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨𖤐",
   ownername: process.env.OWNER_NAME || "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
   errorChat: process.env.ERROR_CHAT || "",
-  KOYEB_API: process.env.KOYEB_API || "false",
+  KOYEB_API: process.env.KOYEB_API || "true",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
